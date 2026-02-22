@@ -1,0 +1,16 @@
+This repo consists of simple games. These games are simple code. No GUI
+Games include:
+---> Number Guessing Game
+---> Dice Roll Challenge
+---> Rock, Paper, Scissors
+---> Treasure Hunt
+
+
+The codes are baisc and simple. It consists of only 
+---> selection structures, 
+---> loops, 
+---> input () , 
+---> import random
+
+
+NO OOP or Data Structures included. 
